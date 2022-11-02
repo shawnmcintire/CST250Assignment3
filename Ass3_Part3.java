@@ -14,7 +14,7 @@ public class Ass3_Part3 {
 				rights++; }
 				}
 		
-		if (lefts == rights)
+	if (lefts == rights)
             return true;
         else
             return false;
